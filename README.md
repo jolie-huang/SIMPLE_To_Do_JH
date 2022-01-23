@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A notable challenge I went through while doing this project is understanding the new terminology that I encountered. Since I have only learned Python, the syntax in this project is different than what I am used to. Nevertheless, experiencing this hands-on gave me more understanding on how an Android app can work.
 
 ## License
 
